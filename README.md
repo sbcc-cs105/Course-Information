@@ -46,9 +46,10 @@ Grades for the current semester are available on Moodle 2. At the end of the sem
 
 ####Grade
 Minimum Percentage
-
-|:--|:-:|--:|
-|A+ | ≥ |97%|  
+|Letter| |Percentage|
+|:--|:-:|--:| 
+|A+ | ≥ |97%|
+  
 A  ≥ 91%  
 A- ≥ 88%  
 B+ ≥ 85%  
