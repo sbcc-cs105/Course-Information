@@ -73,13 +73,11 @@ Your grade is based on how you do on programming assignments, participation, and
 
 ####Note:
 
-ALL WORK (EXCEPT THE FINAL) IS DUE BY THE SUNDAY FOLLOWING THE LAST DAY OF INSTRUCTION. NO EXCEPTIONS.
-
 I use 91% rather than 92% so I can give a higher grade to those students who are close. This means that if you are at 90.99% you are not close to an "A".
 This class is problem, exercise, and lab oriented. You must successfully complete all of the problems and exercises in order to get the maximum out of this class.
 Exercises, quizzes, and labs will vary in what they are worth depending upon the level of difficulty.
 
-Exercises, quizzes, and labs are turned in when they are submitted using Moodle. No credit will be given for any other method of submission unless explicitly requested to do so.
+Exercises, and labs are turned in when they are submitted using GitHub. No credit will be given for any other method of submission unless explicitly requested to do so.
 Assignments with due dates on the Sunday following the last day of instruction cannot be turned in late.
 
 The midterm and the final exam will be given on the dates announced on the web pages.
