@@ -65,9 +65,9 @@ Your grade is based on how you do on programming assignments, participation, and
 |Type                             |Weight|
 |:--------------------------------|-----:|
 | Participation                   |  10% |
-| Prorgramming Assignments & Labs |  30% |
-| Mid-term Examination            |  20% |
-| Final Examination               |  40% |
+| Prorgramming Assignments & Labs |  25% |
+| Mid-term Examination            |  30% |
+| Final Examination               |  35% |
 |---------------------------------|------|
 |Total                            | 100% | 
 
