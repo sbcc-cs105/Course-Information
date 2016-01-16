@@ -5,7 +5,8 @@
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [ahknight@pipeline.sbcc.edu](mailto:ahknight@pipeline.sbcc.edu)  
 Phone: (805) 452-6839  
-Office: PS-248  
+Office: H-248  
+Office Hours: Thursday 4:00 - 5:00 PM
 
 ###Description:  
 
@@ -19,17 +20,14 @@ Thursday 5:00 - 7:05 PM (PS-128)
 
 You are in one of these (check your schedule):
 
-Thursday 9:30 AM - 12:30 PM (H-244) or  
-Thursday 7:10 PM - 10:00 PM (H-244)  
+Thursday 9:30 AM - 12:30 PM (H-244) (CRN# [62499](http://moodle2.sbcc.edu/course/view.php?id=49164)) or  
+Thursday 7:10 PM - 10:00 PM (H-244) (CRN# [62498](http://moodle2.sbcc.edu/course/view.php?id=49163)) 
+
+The links above are the location of all of the class material including this syllabus and the course of study.
 
 ###Textbook: 
 
-Big Java by Cay Horstmann (Fifth Edition) ISBN: 978-1-118-43111-5. It is available from the SBCC Bookstore. The textbook is required.
-
-###Web Pages:
-
-[http://moodle2.sbcc.edu/](http://moodle2.sbcc.edu/)  
-This address is the location of all of the class material including this syllabus and the course of study.
+Big Java, Late Objects by Cay Horstmann (Fifth Edition) ISBN: 978-1-118-08788-7. It is available from the SBCC Bookstore. The textbook is required.
 
 ###Student Learning Outcomes:
 
@@ -60,6 +58,19 @@ Minimum Percentage
 |D  | ≥ |59%|
 |F  | < |59%|
 
+####Grade Breakdown
+
+Your grade is based on how you do on programming assignments, participation, and mid-term & final exams. Each of these areas are weighted when calculating your final grade. The following table enumerates these weights:
+
+|Type                             |Weight|
+|:--------------------------------|-----:|
+| Participation                   |  10% |
+| Prorgramming Assignments & Labs |  30% |
+| Mid-term Examination            |  20% |
+| Final Examination               |  40% |
+|---------------------------------|------|
+|Total                            | 100% | 
+
 ####Note:
 
 ALL WORK (EXCEPT THE FINAL) IS DUE BY THE SUNDAY FOLLOWING THE LAST DAY OF INSTRUCTION. NO EXCEPTIONS.
@@ -81,9 +92,6 @@ To get the most out of the class all assignments should be turned in before the 
 Exercises  
 	-  Can be turned in late.
 
-In-Class Assignments  
-	-  **Cannot** be turned in late.
-
 Labs  
 	-  Can be turned in late.
 
@@ -95,7 +103,23 @@ Final
 
 ####Procedure for late assignments
 
-You are assigned 10 points into your bank for late assignments at the beginning of the semester. Each point (out of 10 points) represents one day late on an assignment that can be turned in late. If you are late up to 24 hours you will have one point deducted from your bank. Up to 48 hours is 2 points, etc. Once you have exhausted all of your points you will receive no credit for late assignments. At the end of the semester, any remaining points in your bank will be doubled and added to your total score as extra credit.
+Each assignment has a point value, for example, 6 points. Students may turn in assignments late and have deducted one point for each 24 hour period the assignment is turned in after the due date (All times for due dates are Pacific Time). For example, the 6 point assigment turned in one second (or any measurable fraction of time) after the due date and time will have one point deducted from it. As each 24 hour period expires another point will be deducted. As soon as the point value is zero, the assignment can no longer be turned in. That means, for example, the 6 point assignment cannot be turned in after six 24 hour periods has passed. This concept is very important when applying extra credit. Please see the Extra Credit section for further details.
+
+For those assignments that are turned in late but before the final cut off, you can apply extra credit points you earn through out the term to make up for these lost points. Again, see the secion on Extra Credit for further details.
+
+####Extra Credit
+
+To allow students to be as successful as possible, there will be several opportunities to earn extra credit throughout the term. These points can then be applied to lost credit on assignments (whether late or not), and then to exams, in that order.
+
+The following descriptions detail the different types of extra credit that will be given throughout the term.
+
+1. _Extra Credit Assignments_: I will post near the beginning of the quarter at least two extra credit assignments where students can earn up to 5 points for each assignment by writing about specific historical events in computing. These events will be chosen by me when I post the extra credit assignment. Their due date will be at the end of the term.
+
+2. _Make Allan Cooler_: Students can post modern songs (nother older than two years since their release) or slang, lingo, or colloquilism to the Slack channel [#make-allan-cooler](https://sbcc-cs105-s2016.slack.com/archives/make-allan-cooler). Each week I will pick at most one song and and most one colloquilism and share it with the class. The sender of that item (the first to show up, temporally in Slack, in the case of duplicate entries) will get 1 extra credit point. All decisions are mine and are final.
+
+3. _Reading Quizzes_: In the past Reading Quizzes were mandatory, however, this term I am making all but the Class Rules Quiz optional. However, I still want to encourage students to take them as a study aid. Therefore, students can earn extra credit points by getting at least 70% on any quiz throughout the term. Each quiz with 70% or better will be worth one extra credit point, upto 10 points maximum. That means there are approximately 15 opportunities this term to earn 10 extra credit points. The reading quizzes must be completed by the due date to qualify for extra credit.
+
+4. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
 
 ###Accomodations
 
