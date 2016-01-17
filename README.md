@@ -23,7 +23,7 @@ You are in one of these (check your schedule):
 Thursday 9:30 AM - 12:30 PM (H-244) (CRN# [62499](http://moodle2.sbcc.edu/course/view.php?id=49164)) or  
 Thursday 7:10 PM - 10:00 PM (H-244) (CRN# [62498](http://moodle2.sbcc.edu/course/view.php?id=49163)) 
 
-The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](http://sbcc-cs105-spring2016.github.com).
+The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](https://github.com/sbcc-cs105-spring2016).
 
 ###Textbook: 
 
@@ -65,7 +65,7 @@ Your grade is based on how you do on programming assignments, participation, and
 |Type                             |Weight|
 |:--------------------------------|-----:|
 | Participation                   |  10% |
-| Programming Assignments & Labs |  25% |
+| Programming Assignments & Labs  |  25% |
 | Mid-term Examination            |  30% |
 | Final Examination               |  35% |
 |---------------------------------|------|
