@@ -27,7 +27,7 @@ The links above are the location of all of the due dates and grading submission.
 
 ###Textbook: 
 
-Big Java, Late Objects by Cay Horstmann (Fifth Edition) ISBN: 978-1-118-08788-7. It is available from the SBCC Bookstore. The textbook is required.
+[Big Java, Early Objects](http://www.sbccbooks.com/textbook_express/get_txtexpress.asp?remote=1&ref=2023&student=&term=Spring%202016&dept=CS&course=105&section=62498&getbooks=display+books) by Cay Horstmann (Fifth Edition) ISBN: 978-1-118-43111-5 (It's also on [Amazon](http://www.amazon.com/Big-Java-Cay-S-Horstmann/dp/1118431111/)). It is available from the SBCC Bookstore. The textbook is required.
 
 ###Student Learning Outcomes:
 
