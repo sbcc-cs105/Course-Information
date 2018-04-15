@@ -1,5 +1,7 @@
 # Syllabus - Fall 2017 CS105 Theory & Practice I
 
+[Wiki](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki)
+
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
@@ -7,7 +9,6 @@ Email: [ahknight@pipeline.sbcc.edu](mailto:ahknight@pipeline.sbcc.edu)
 Phone: (805) 452-6839  
 Office: H-248  
 Office Hours: Thursday 4:00 - 5:00 PM
-[Wiki](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki)
 
 ### Description:  
 
