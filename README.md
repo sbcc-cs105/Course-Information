@@ -68,9 +68,10 @@ Your grade is based on how you do on programming assignments, participation, and
 |Type                             |Weight|
 |:--------------------------------|-----:|
 | Participation                   |  10% |
-| Programming Assignments & Labs  |  25% |
-| Mid-term Examination            |  30% |
-| Final Examination               |  35% |
+| Quizzes                         |  10% |
+| Programming Assignments & Labs  |  30% |
+| Mid-term Examination            |  20% |
+| Final Examination               |  30% |
 |**Total**                        | **100%** | 
 
 #### Notes:
@@ -132,7 +133,7 @@ SBCC students with verified disabilities who are requesting academic accommodati
 
 **Step 1:** Obtain documentation of your disability from a licensed professional. You may use the “Disability Verification Form” found at [www.sbcc.edu/dsps](http://www.sbcc.edu/dsps).
 
-**Step 2:** Make an appointment to meet with a DSPS Specialist to review your documentation an**d discuss reasonable accommodations. To schedule a meeting, please call DSPS at (805) 730-4164.
+**Step 2:** Make an appointment to meet with a DSPS Specialist to review your documentation and **discuss reasonable accommodations. To schedule a meeting, please call DSPS at (805) 730-4164.
 
 **Step 3:** Bring your disability documentation to your DSPS appointment. The DSPS office is located in room 160 of the Student Services building.
 
