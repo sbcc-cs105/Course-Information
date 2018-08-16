@@ -6,9 +6,9 @@
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [ahknight@pipeline.sbcc.edu](mailto:ahknight@pipeline.sbcc.edu)  
-Phone: (805) 452-6839  
+Phone: (805) 285-2070  
 Office: H-245  
-Office Hours: Thursday 3:3 - 4:30 PM
+Office Hours: Thursday 3:30 - 4:30 PM
 
 ### Description:  
 
