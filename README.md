@@ -25,7 +25,7 @@ You are in one of these (check your schedule):
 Thursday 9:30 AM - 12:30 PM (H-245) (CRN# [33323](https://canvas.sbcc.edu/courses/15903)) or  
 Thursday 7:10 PM - 10:00 PM (H-245) (CRN# [37933](https://canvas.sbcc.edu/courses/15903)) 
 
-The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](https://github.com/sbcc-cs140-fall2018/Course-Information/).
+The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki).
 
 ### Textbook: 
 
