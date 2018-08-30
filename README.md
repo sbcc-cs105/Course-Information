@@ -139,7 +139,3 @@ SBCC students with verified disabilities who are requesting academic accommodati
 
 Please complete this process in a timely manner to allow adequate time to provide accommodation.
 
-### A Visual View of the Course
-
-<img src="https://docs.google.com/drawings/d/e/2PACX-1vRAubBQNN7cpTtNx8SiEIN-P5IgwUauor_fs0eNs6z9XXEkuO0QNsa_poLVM4AAXAMAAldWAtarIUKq/pub?w=1604&h=866" width="802" height="433">
-
