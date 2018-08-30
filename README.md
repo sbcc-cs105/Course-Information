@@ -121,8 +121,6 @@ The following descriptions detail the different types of extra credit that will 
 
 1. _Extra Credit Assignments_: I will post near the beginning of the quarter at least two extra credit assignments where students can earn up to 5 points for each assignment by writing about specific historical events in computing. These events will be chosen by me, and posted to the Moodle site. Their due date will be at the end of the term.
 
-2. _Reading Quizzes_: In the past Reading Quizzes were mandatory, however, this term I am making all but the Class Rules Quiz optional. However, I still want to encourage students to take them as a study aid. Therefore, students can earn extra credit points by getting at least 70% on any quiz throughout the term. Each quiz with 70% or better will be worth one extra credit point, up to 10 points maximum. That means there are approximately 15 opportunities this term to earn 10 extra credit points. The reading quizzes must be completed by the due date to qualify for extra credit.
-
 3. _Make Allan Cooler_: On Slack there is a channel specifically named "Make Allan Cooler" participation in this channel with colloquilisms and contempory song suggestions will earn students extra credit points, determined at the end of the term.
 
 3. _SBCC CS Club Events_: Throughout the term the CS Club will be putting on talks from people in industry and academia. You can earn extra credit points for attending these events. Students must sign the attendance sheet at the talk to earn the extra credit points. I will post on the Moodle site which events qualify for extra credit.
