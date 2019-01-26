@@ -1,6 +1,6 @@
-# Syllabus - Fall 2018 CS140 Object-Oriented Programming Using C++
+# Syllabus - Spring 2019 CS140 Object-Oriented Programming Using C++
 
-[Wiki](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki)
+[Wiki](https://github.com/sbcc-cs140/Course-Information/wiki)
 
 ### Instructor:
 
@@ -16,16 +16,16 @@ Study of the object-oriented programming paradigm, including objects, messages, 
 
 ### Lecture:
 
-Thursday 4:30 - 7:05 PM (ECC-20)
+Monday 4:30 - 7:05 PM (H-111)
 
 ### Lab Sessions:
 
 You are in one of these (check your schedule):
 
-Thursday 9:30 AM - 12:30 PM (H-245) (CRN# [33323](https://canvas.sbcc.edu/courses/15903)) or  
-Thursday 7:10 PM - 10:00 PM (H-245) (CRN# [37933](https://canvas.sbcc.edu/courses/15903)) 
+Thursday 9:30 AM - 12:30 PM (H-245) (CRN# [57352](https://canvas.sbcc.edu/courses/21093)) or  
+Monday 7:10 PM - 10:00 PM (H-245) (CRN# [64872](https://canvas.sbcc.edu/courses/21093)) 
 
-The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](https://github.com/sbcc-cs140-fall2018/Course-Information/wiki).
+The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](https://github.com/sbcc-cs140/Course-Information/wiki).
 
 ### Textbook: 
 
