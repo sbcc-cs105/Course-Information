@@ -1,44 +1,64 @@
-# Syllabus - Spring 2019 CS140 Object-Oriented Programming Using C++
-
-[Wiki](https://github.com/sbcc-cs140/Course-Information/wiki)
+# Syllabus - Fall 2020 CS105 Theory & Practice I
 
 ### Instructor:
 
 [Allan Knight](https://www.linkedin.com/in/allanknight)  
 Email: [ahknight@pipeline.sbcc.edu](mailto:ahknight@pipeline.sbcc.edu)  
-Phone: (805) 285-2070  
-Office: H-245  
-Office Hours: Thursday 3:30 - 4:30 PM
+Phone: (805) 289-6489  
+Office: H-244 
+Office Hours: Wednesday 4:00 - 5:00 PM
 
 ### Description:  
 
-Study of the object-oriented programming paradigm, including objects, messages, encapsulation, classes, inheritance and implementation issues. Implementations written in the object-oriented language C++.
+Study of fundamental programming concepts. Topics include structured and OOP programming, definition of data types, nested IFs, looping techniques, CASE statements, procedures, functions, value and address parameters, file structures, dynamic list structures and recursion.​
 
 ### Lecture:
 
-Monday 4:30 - 7:05 PM (H-111)
+Wednesday 5:00 - 7:05 PM (ECC-20)
 
 ### Lab Sessions:
 
 You are in one of these (check your schedule):
 
-Thursday 9:30 AM - 12:30 PM (H-245) (CRN# [57352](https://canvas.sbcc.edu/courses/21093)) or  
-Monday 7:10 PM - 10:00 PM (H-245) (CRN# [64872](https://canvas.sbcc.edu/courses/21093)) 
+Wednesday 7:10 PM - 10:00 PM (H-245) (CRN# [64013](https://canvas.sbcc.edu/courses/29626)) or  
+Thursday 7:10 PM - 10:00 PM (H-244) (CRN# [65482](https://canvas.sbcc.edu/courses/29626)) 
 
-The links above are the location of all of the due dates and grading submission. Additional class material including this syllabus and the course of study, are available on [GitHub](https://github.com/sbcc-cs140/Course-Information/wiki).
+The links above are the location of all of the due dates and grading submission.
 
 ### Textbook: 
 
-Absolute C++, 6th Edition, Walter Savitch and Kenrick Mock. ISBN: 978-0-133-97139-2 (It's also on [Amazon](https://www.amazon.com/Absolute-C-6th-Walter-Savitch/dp/0133970787/)). It is available from the SBCC Bookstore. The textbook is required.
+Big Java, Late Objects by Cay Horstmann (Fifth Edition) ISBN: 978-1-118-08788-7. It is available from the SBCC Bookstore. The textbook is required. (It's also on [Amazon](https://www.amazon.com/Big-Java-Cay-S-Horstmann/dp/1118087887/)).
 
 ### Student Learning Outcomes:
 
-1. Top-Down Design - Construct a top-down design for the solution of a computer program.
-2. Programming - Implement programs utilizing fundamental programming constructs (i.e., sequential, computational, logical and looping programming constructs).
-3. Data Structures - Implement programs using common data structures including arrays, records, files, and binary trees.
-4. Modularity - Implement modules utilizing functions, procedures and recursive use.
-5. Validation - Validate a program's correctness and make necessary corrections.
-6. Documentation - Document and prepare materials supporting how a program works
+**CSLO1** - Analyze problems and provide logical solutions to them.
+
+**CSLO2** - Outline solutions in a systematic fashion, such as flowcharting or pseudo-code.
+
+**CSLO3** - Use classes, methods, and objects to implement Java programs, including creation and coding of child classes and instances.
+
+**CSLO4** - Designate and identify sequential, selection, and iteration control structure.
+
+### Mid-Term Exam
+
+The mid-term exam will be held in the usual class room, ECC-20, from 5:00PM to 7:05PM on Wednesday, March 11, 2020. 
+
+### Final Exam
+
+The final exam will be held in the usual class room, ECC-20, from 5:00PM to 7:05PM on Wednesday, May 6, 2020. 
+
+Remember, the following Monday, May 4, 2020, there is no class or lecture.
+
+### Examination Materials
+
+For all exams, both the mid-term and final, you will need to bring:
+
+1. A writing utensil (No. 2 Pencil) 
+1. An 8.5" X 11" sheet of paper with your notes (you can put notes on both sides), 
+1. A Scantron 882-E form and that's it. 
+
+There will be no need for a calculator. As a matter of fact, if you think you  need a calculator, you're probably doing 
+something wrong.
 
 ### Grading:
 
@@ -49,7 +69,7 @@ Minimum Percentage
 
 | Grade|     | Percent |
 |-----:|:---:|--------:|
-| A+   |  ≥  |     97% |
+| A+   |  ≥  |    100% |
 | A    |  ≥  |     91% |
 | A-   |  ≥  |     88% |
 | B+   |  ≥  |     85% |
@@ -69,7 +89,7 @@ Your grade is based on how you do on programming assignments, participation, and
 |:--------------------------------|-----:|
 | Participation                   |  10% |
 | Quizzes                         |  10% |
-| Programming Assignments & Labs  |  30% |
+| Programming Assignments         |  30% |
 | Mid-term Examination            |  20% |
 | Final Examination               |  30% |
 |**Total**                        | **100%** | 
