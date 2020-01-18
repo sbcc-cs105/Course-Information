@@ -1,4 +1,4 @@
-# Syllabus - Fall 2020 CS105 Theory & Practice I
+# Syllabus - Spring 2020 CS105 Theory & Practice I
 
 ### Instructor:
 
